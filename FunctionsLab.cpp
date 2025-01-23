@@ -11,6 +11,7 @@ using namespace std; // making life easier so that we do not need to use std::ci
 
 
 int locateSmallest(int array[], int start, int end){
+	int x = 2;
 	return -1; // fix this!
 }
 
